@@ -1,2 +1,0 @@
-[click here for the analysis](https://github.com/LianxinS/Lianxin_Shen/blob/main/The%20Analysis.ipynb)
-[click here for the data](https://github.com/LianxinS/Lianxin_Shen/blob/main/building_inventory.csv)
